@@ -1,3 +1,4 @@
+## 20171207 - Nate Caldwell
 ## These functions are for caching matrix inverses into memory
 ## prior to conducting computation.  This allows for the original matrix,
 ## the function, and the solution all to remain within memory for
